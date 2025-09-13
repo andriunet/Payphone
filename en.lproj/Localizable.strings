@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Payphone
+
+  Created by Andres Marin on 13/09/25.
+  
+*/
+
+
+"users" = "Users";
+"add" = "Add";
+"refresh" = "Refresh";
+"delete" = "Delete";
+"error" = "Error";
+"ok" = "OK";
+"detail" = "Detail";
+"info" = "Info";
+"readonly" = "Read-only";
+"name" = "Name";
+"email" = "Email";
+"phone" = "Phone";
+"city" = "City";
+"new_user" = "New User";
+"required" = "Required";
+"location" = "Location";
+"get_location" = "Get Current Location";
+"coordinates" = "Coordinates";
+"cancel" = "Cancel";
+"invalid_email" = "Please enter a valid email address.";
+"invalid_phone" = "Please enter a valid phone number.";
+"failed_fetch_users" = "Could not fetch users. Check your connection.";
+"user_not_found" = "User not found.";
+"no_location" = "No location yet";
+"empty" = "is empty";
+"save" = "Save";
