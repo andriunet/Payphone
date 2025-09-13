@@ -39,7 +39,7 @@ final class UserRepository: UserRepositoryType {
             }
             let remotos = realm.objects(RUser.self).where { $0.isLocal == false }.count
             let locales = realm.objects(RUser.self).where { $0.isLocal == true }.count
-            print("Realm remotos:", remotos)
+            print("Remotos:", remotos)
             print("Locales:", locales)
         }
     }

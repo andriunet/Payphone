@@ -5,7 +5,6 @@
 //  Created by Andres Marin on 13/09/25.
 //
 
-
 import CoreLocation
 
 final class LocationManager: NSObject, ObservableObject {
