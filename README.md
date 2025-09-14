@@ -28,7 +28,7 @@ Prueba práctica de iOS desarrollada en **SwiftUI + MVVM**, con integración de 
 Durante el desarrollo prioricé las implementaciones más críticas dentro del tiempo disponible:
 
 - **Consumo de API y persistencia local con Realm** → asegurar datos aún sin conexión.  
-- **Arquitectura MVVM** → separar lógica de negocio y UI, facilitando escalabilidad.  
+- **Arquitectura MVVM + C** → separar lógica de negocio y UI, facilitando escalabilidad.  
 - **Manejo de errores** → garantizar una experiencia estable ante fallos de red o validación.  
 
 Otras funcionalidades como localización, internacionalización y mejoras visuales se implementaron de manera básica, dejando espacio para optimizarlas en futuras iteraciones.  
