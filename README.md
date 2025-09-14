@@ -4,12 +4,12 @@ Prueba práctica de iOS desarrollada en **SwiftUI + MVVM**, con integración de 
 
 ## Funcionalidades
 
-- 📡 **Consumo de API**: lista de usuarios desde [JSONPlaceholder](https://jsonplaceholder.typicode.com/users).  
-- 💾 **Persistencia local**: caché y almacenamiento offline con Realm.  
-- 🌍 **Localización**: obtención de coordenadas y visualización en alertas.  
-- 🌐 **Internacionalización**: soporte multilenguaje (Inglés/Español) con `Localizable.strings`.  
-- ⚡ **Arquitectura limpia**: patrón **MVVM** para separar lógica y UI.  
-- 🚨 **Manejo de errores**: alertas amigables con `AppError`.  
+- **Consumo de API**: lista de usuarios desde [JSONPlaceholder](https://jsonplaceholder.typicode.com/users).  
+- **Persistencia local**: caché y almacenamiento offline con Realm.  
+- **Localización**: obtención de coordenadas y visualización en alertas.  
+- **Internacionalización**: soporte multilenguaje (Inglés/Español) con `Localizable.strings`.  
+- **Arquitectura limpia**: patrón **MVVM** para separar lógica y UI.  
+- **Manejo de errores**: alertas amigables con `AppError`.  
 
 ---
 
@@ -23,7 +23,7 @@ Prueba práctica de iOS desarrollada en **SwiftUI + MVVM**, con integración de 
 
 ---
 
-## Decisiones técnicas y priorización
+## Decisiones técnicas
 
 Durante el desarrollo prioricé las implementaciones más críticas dentro del tiempo disponible:
 
